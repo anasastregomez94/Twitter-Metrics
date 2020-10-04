@@ -1,0 +1,71 @@
+.intro-header {
+    height: unset !important;
+  }
+  .intro-2 {
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("https://3vvef3ymnjpvv2ob3vdgy913-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/twitter-stats-01.png")no-repeat center center;
+    background-size: cover;
+  }
+  .view {
+    height: 100vh !important;
+  }
+  .rgba-gradient .full-bg-img {
+    background: linear-gradient(45deg, rgba(83, 125, 210, 0.4), rgba(178, 30, 123, 0.4) 100%);
+  }
+  .full-bg-img {
+    height: 100%;
+  }
+
+.card-container-map {
+    height: 250px;
+    width:  250px;
+    border-radius: 5%;
+    background: linear-gradient(rgba(255,255,255,.7), rgba(255,255,255,.7)), url("../../assets/images/map-glass.jpg")no-repeat center center;
+}
+
+.card-container-words {
+    height: 250px;
+    width:  250px;
+    border-radius: 5%;
+    background: linear-gradient(rgba(255,255,255,.7), rgba(255,255,255,.7)), url("../../assets/images/word-glass.jpg")no-repeat center center;
+}
+
+.card-container-user {
+    height: 250px;
+    width:  250px;
+    border-radius: 5%;
+    background: linear-gradient(rgba(255,255,255,.85), rgba(255,255,255,.85)), url("../../assets/images/user-glass.png")no-repeat center center;
+}
+
+.card-container-tweet {
+    height: 250px;
+    width:  250px;
+    border-radius: 5%;
+    background: linear-gradient(rgba(255,255,255,.7), rgba(255,255,255,.7)), url("../../assets/images/tweet-glass.png")no-repeat center center;
+}
+
+.card-low {
+    padding-top: 100px;
+}
+
+.card-flip div {
+    margin-top: 80px;
+    background: transparent;
+    border: none !important;
+}
+
+.front_card_button {
+    margin-left: 100px;
+    margin-top: 20px;
+    background-color: #08a0e9 !important;
+}
+
+.first_back_card_button {
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color: #08a0e9 !important;
+}
+
+.second_back_card_button {
+    margin-left: 20px;
+    margin-top: 20px;
+}
